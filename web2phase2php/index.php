@@ -10,7 +10,7 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Project/PHP/PHPProject.php to edi
     </head>
     <body>
         <?php
-            echo 'hellow wold';
+            echo '<h1>hellow wold</h1>';
         ?>
     </body>
 </html>
